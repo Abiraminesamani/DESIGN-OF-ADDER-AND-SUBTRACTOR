@@ -52,7 +52,7 @@ Procedure:
 
 # Program:
 
-![image](https://github.com/user-attachments/assets/1a838654-08b2-40bf-bf00-65bab30c9770)
+![image](https://github.com/user-attachments/assets/7257cdd2-8b91-4f57-93fa-5a5129bbbf57)
 
 
 # RTL Output:
